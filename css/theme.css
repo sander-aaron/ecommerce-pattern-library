@@ -1,13 +1,13 @@
 :root {
   --color-primary: #000;
   --color-primary-light: #f7f7f7;
-  --secondary-color: #f7c602;
-  --color-accent: #f94e67;
-  --color-neutral-beige: #019790;
-  --color-whatever: #292929;
+  --secondary-color: #fff;
+  --color-pink: #f94e67;
+  --color-blue: #019790;
+  --color-yellow: #f7c602;
 
   --font-primary: futura-pt, sans-serif;
-  --font-secondary: gill-sans-nova-deco, sans-serif;
+  --font-secondary: ff-prater-block-web, sans-serif;
 }
 
 html {
