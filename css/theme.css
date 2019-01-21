@@ -81,7 +81,7 @@ blockquote {
 cite {
   font-family: var(--font-primary);
   color: var(--color-primary);
-  font-weight: 400;
+  font-weight: 300;
   font-style: italic;
 }
 
