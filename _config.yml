@@ -2,4 +2,7 @@ permalink: pretty
 theme: jekyll_patternbot
 
 patternbot:
+  title: Mushroom Boy
+  description:  |
+    A unisex t-shirt, hoodie and jacket company.
   font_url: "https://use.typekit.net/cjq1zsh.css"
