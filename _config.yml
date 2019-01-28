@@ -10,7 +10,7 @@ patternbot:
     background: "--color-primary-light"
     accent: "--color-primary"
     patterns:
-      brand.logos: "--color-blue"
+      brand.logos: "--color-primary-light"
   rationales:
     typefaces.primary: |
       Futura was selected because it is a modern typeface that is easy to read and expressive. Futura is used for all headings under H2 and body copy.
