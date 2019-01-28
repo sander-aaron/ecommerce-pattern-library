@@ -8,8 +8,8 @@ patternbot:
   font_url: "https://use.typekit.net/cjq1zsh.css"
   colors:
     background: "--color-primary-light"
-    accent: "--color-yellow"
-    patters:
+    accent: "--color-primary"
+    patterns:
       brand.logos: "--color-blue"
   rationales:
     typefaces.primary: |
