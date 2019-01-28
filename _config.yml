@@ -11,3 +11,7 @@ patternbot:
       Futura was selected because it is a modern typeface that is easy to read and expressive. Futura is used for all headings under H2 and body copy.
     typefaces.secondary: |
       FF Prater Block was selected because it is a fun and expressive typeface that shows off the expected feel of the company. FF Prater Block is used for H1s and the company's name in the header. It should not be used at small sizes!
+    colors.primary: |
+      The primary colours are black and an off-white to keep the website sleek looking.
+    colors.secondary: |
+      The secondary colours are brighter and pop off the pages to add intrest and also aide the consumer in easily identifying key elements of any page.
