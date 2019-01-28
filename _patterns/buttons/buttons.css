@@ -14,7 +14,7 @@
 
 .btn-ghost {
   background-color: var(--color-primary-light);
-  border-color: var(--color-primary);
+  border-color: var(--color-yellow);
   color: var(--color-primary);
   border-radius: 0px;
 }
@@ -36,6 +36,6 @@
 .btn-light:hover {
   background-color: var(--color-pink);
   border-color: var(--color-primary-light);
-  color: var(--color-primary);
+  color: var(--color-primary-light);
   border-radius: 0px;
 }
