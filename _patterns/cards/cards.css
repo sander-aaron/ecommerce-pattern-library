@@ -2,3 +2,18 @@
   border-color: var(--color-blue);
   border-width: medium;
 }
+
+.hoodie {
+  border-color: var(--color-pink);
+  border-width: medium;
+}
+
+.jacket {
+  border-color: var(--color-yellow);
+  border-width: medium;
+}
+
+.featured {
+  border-color: var(--color-yellow);
+  border-width: medium;
+}
