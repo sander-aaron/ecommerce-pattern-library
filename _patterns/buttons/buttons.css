@@ -85,7 +85,7 @@
 .btn-size::selection {
   background-color: var(--color-blue);
   border-color: var(--color-blue);
-  color: var(--color-primary);
+  color: var(--color-primary-light);
   border-radius: 0px;
 }
 
@@ -96,7 +96,7 @@
 }
 
 .btn-nostock:hover {
-  background-color: none;
+  background-color: var(--color-primary-light);
   border-color: var(--color-primary-light);
   color: var(--color-primary-light);
 }
