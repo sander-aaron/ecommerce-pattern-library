@@ -21,3 +21,7 @@
   border-width: 5px;
   border-style: solid;
 }
+
+.checkout {
+  background-color: var(--color-primary-light);
+}
