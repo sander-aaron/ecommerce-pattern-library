@@ -39,3 +39,31 @@
   color: var(--color-primary-light);
   border-radius: 0px;
 }
+
+.btn-add {
+  background-color: var(--color-primary-light);
+  border-color: var(--color-primary-light);
+  color: var(--color-primary);
+  border-radius: 0px;
+}
+
+.btn-add:hover {
+  background-color: var(--color-primary);
+  border-color: var(--color-primary);
+  color: var(--color-primary-light);
+  border-radius: 0px;
+}
+
+.btn-checkout {
+  background-color: var(--color-blue);
+  border-color: var(--color-blue);
+  color: var(--color-primary-light);
+  border-radius: 0px;
+}
+
+.btn-checkout:hover {
+  background-color: var(--color-primary-light);
+  border-color: var(--color-primary-light);
+  color: var(--color-primary);
+  border-radius: 0px;
+}
