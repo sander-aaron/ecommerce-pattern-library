@@ -1,19 +1,23 @@
 .tshirt {
   border-color: var(--color-blue);
   border-width: 5px;
+  border-style: solid;
 }
 
 .hoodie {
   border-color: var(--color-pink);
   border-width: 5px;
+  border-style: solid;
 }
 
 .jacket {
   border-color: var(--color-yellow);
   border-width: 5px;
+  border-style: solid;
 }
 
 .featured {
   border-color: var(--color-yellow);
   border-width: 5px;
+  border-style: solid;
 }
