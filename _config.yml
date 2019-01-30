@@ -7,7 +7,6 @@ patternbot:
     A unisex t-shirt, hoodie and jacket company. Dedicated to inspiring customers and giving them a chance to express themselves with their unique clothing.
   font_url: "https://use.typekit.net/cjq1zsh.css"
   colors:
-    background: "--color-primary-light"
     accent: "--color-primary"
     patterns:
       brand.logos: "--color-primary-light"
