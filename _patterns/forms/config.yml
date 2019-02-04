@@ -1,9 +1,21 @@
 title: "Forms"
 description: |
-  Cards should be used to display important grouping sof informations and images.
+  Fields and buttons that can be pieced together to create forms. They can also be added anywhere applicable.
 
 patterns:
   name:
     title: "Full Name"
     description: |
       Field for the user to input their full name.
+  email:
+    title: "Email"
+    description: |
+      Field for the user to input their email.
+  mailing:
+    title: "Newletter Consent"
+    description: |
+      A button that allows the user to accept to be subscribed to the MUSHROOM BOY emailing list.
+  discount:
+    title: "Discount Code"
+    description: |
+      Field for the user to input a possible discount code.
