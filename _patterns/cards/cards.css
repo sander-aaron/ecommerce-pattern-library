@@ -35,3 +35,8 @@
 .cart {
   background-color: var(--color-primary-light);
 }
+
+br {
+  border-color: var(--color-blue);
+  border-width: 5px;
+}

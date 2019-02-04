@@ -1,0 +1,37 @@
+title: "Cards"
+description: |
+  Cards should be used .
+
+patterns:
+  featured:
+    title: "Featured"
+    description: |
+      A card to be used on the homepage and links through to the featured products page.
+  shirtcard:
+    title: "Shirts"
+    description: |
+      A card to be used on the homepage and links through to the shirts product page.
+  hoodie:
+    title: "Hoodies"
+    description: |
+      A card to be used on the homepage and links through to the hoodies product page.
+  jacket:
+    title: "Jackets"
+    description: |
+      A card to be used on the homepage and links through to the jackets product page.
+  about:
+    title: "About"
+    description: |
+      A card to be used on the homepage and tells the user abou the company.
+  product:
+    title: "Product Card"
+    description: |
+      The card that shows off the product inside of each of the proudct pages.
+  cart:
+    title: "Cart"
+    description: |
+      The card that shows off the users cart total.
+  checkout:
+    title: "Checkout"
+    description: |
+      The card that shows off the products inside of each of the proudct pages.
