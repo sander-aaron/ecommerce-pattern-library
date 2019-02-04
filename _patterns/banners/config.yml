@@ -7,7 +7,7 @@ patterns:
     title: "Home Page"
     description: |
       Banner that is used on the home page of the site.
-  otherpage:
+  otherpages:
     title: "Other Page"
     description: |
       Banner that is used on every other page of the site. (not used on home page)
