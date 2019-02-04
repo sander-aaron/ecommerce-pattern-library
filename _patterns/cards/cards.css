@@ -25,3 +25,13 @@
 .checkout {
   background-color: var(--color-primary-light);
 }
+
+.about {
+  border-color: var(--color-blue);
+  border-width: 5px;
+  border-style: solid;
+}
+
+.cart {
+  background-color: var(--color-primary-light);
+}

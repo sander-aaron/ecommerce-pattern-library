@@ -162,3 +162,7 @@ u {
   font-weight: 400;
   text-decoration: underline;
 }
+
+a {
+  color: var(--color-blue);
+}
