@@ -1,6 +1,6 @@
 .homebanner {
   width: 100%;
-  height: 250px;
+  height: 500px;
   background-color: var(--color-primary-light);
   position: relative;
 }
@@ -15,7 +15,7 @@ h1 {
 
 i {
   position: absolute;
-  top: 100%;
+  top: 90.5%;
 }
 
 .yellow {
