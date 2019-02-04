@@ -56,7 +56,7 @@
 
 .btn-discount {
   background-color: var(--color-primary-light);
-  border-color: var(--color-primary-light);
+  border-color: var(--color-blue);
   color: var(--color-primary);
   border-radius: 0px;
 }
