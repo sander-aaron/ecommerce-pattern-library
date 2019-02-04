@@ -1,0 +1,9 @@
+title: "Forms"
+description: |
+  Cards should be used to display important grouping sof informations and images.
+
+patterns:
+  name:
+    title: "Full Name"
+    description: |
+      Field for the user to input their full name.
