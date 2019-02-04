@@ -27,11 +27,14 @@ patterns:
     title: "Product Card"
     description: |
       The card that shows off the product inside of each of the proudct pages.
+    width: 12em;
   cart:
     title: "Cart"
     description: |
       The card that shows off the users cart total.
+    width: 20em;
   checkout:
     title: "Checkout"
     description: |
       The card that shows off the products inside of each of the proudct pages.
+    width: 20em;
