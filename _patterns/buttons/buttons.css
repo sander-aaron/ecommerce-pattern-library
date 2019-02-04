@@ -54,6 +54,20 @@
   border-radius: 0px;
 }
 
+.btn-discount {
+  background-color: var(--color-primary-light);
+  border-color: var(--color-primary-light);
+  color: var(--color-primary);
+  border-radius: 0px;
+}
+
+.btn-discount:hover {
+  background-color: var(--color-primary);
+  border-color: var(--color-primary);
+  color: var(--color-primary-light);
+  border-radius: 0px;
+}
+
 .btn-checkout {
   background-color: var(--color-blue);
   border-color: var(--color-blue);

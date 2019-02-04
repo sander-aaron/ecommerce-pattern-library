@@ -6,7 +6,16 @@
 }
 
 h1 {
+  position: absolute;
   z-index: 1;
+  left: 50%;
+  bottom: 50%;
+  transform: translateX(-50%);
+}
+
+i {
+  position: absolute;
+  top: 100%;
 }
 
 .yellow {
@@ -46,7 +55,7 @@ h1 {
   position: absolute;
   left: 50%;
   bottom: 50%;
-  animation: two-move 6s ease infinite alternate;
+  animation: two-move 15s ease infinite alternate;
 }
 
 @keyframes two-move {
