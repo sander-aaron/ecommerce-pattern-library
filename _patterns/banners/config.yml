@@ -1,0 +1,13 @@
+title: "Banners"
+description: |
+  Banners are used that the top of the pages.
+
+patterns:
+  homepage:
+    title: "Home Page"
+    description: |
+      Banner that is used on the home page of the site.
+  otherpage:
+    title: "Other Page"
+    description: |
+      Banner that is used on every other page of the site. (not used on home page)
