@@ -206,15 +206,15 @@ i {
 
 .still-one {
   left: 90%;
-  bottom: 0%;
+  bottom: 100%;
 }
 
-.still-to {
+.still-two {
   left: 100%;
   bottom: 3%;
 }
 
-.still-one {
+.still-three {
   left: 100%;
   bottom: 8%;
 }
