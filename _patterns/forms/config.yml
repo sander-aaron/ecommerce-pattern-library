@@ -12,10 +12,10 @@ patterns:
     description: |
       Field for the user to input their email.
   mailing:
-    title: "Newletter Consent"
+    title: "Newsletter Consent"
     description: |
       A button that allows the user to accept to be subscribed to the MUSHROOM BOY emailing list.
   discount:
     title: "Discount Code"
     description: |
-      Field for the user to input a possible discount code.
+      Field for the user to input a possible discount code. Use only in cart.
