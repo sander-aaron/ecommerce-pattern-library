@@ -26,7 +26,7 @@ patterns:
   product:
     title: "Product Card"
     description: |
-      The card that shows off the product inside of each of the proudct pages.
+      The card that shows off the product inside of each of the proudct pages. Each product that is displayed in the cart gets an new card so that the x-button in the top corner can remove it from the cart if needed.
     width: 12em;
   cart:
     title: "Cart"
