@@ -15,3 +15,27 @@ patterns:
     title: "Light"
     description: |
       Buttons for the hoodies pages.
+  size:
+    title: "Size"
+    description: |
+      A button that is used to select the disired size of the product. Change letter inside of CSS file for a different size. Available sizes are: XS, S, M, L, XL.
+  nostock:
+    title: "No Stock"
+    description: |
+      For when a certain size is out of stock.
+  Add:
+    title: "Add"
+    description: |
+      The button to be used on the product for the user to click to add the item to their order.
+  checkout:
+    title: "Check Out"
+    description: |
+      A button that leads the user to the checkout. Used on Shopping Bag Total Card.
+  minus:
+    title: "Minus"
+    description: |
+      To remove 1 from the quanitiy of an item in the cart.
+  plus:
+    title: "Plus"
+    description: |
+      To add 1 from the quanitiy of an item in the cart.
