@@ -23,14 +23,14 @@ patterns:
     title: "No Stock"
     description: |
       For when a certain size is out of stock.
-  Add:
+  add:
     title: "Add"
     description: |
       The button to be used on the product for the user to click to add the item to their order.
   checkout:
     title: "Check Out"
     description: |
-      A button that leads the user to the checkout. Used on Shopping Bag Total Card.
+      A button that leads the user to the checkout. Used on Cart Total Card.
   minus:
     title: "Minus"
     description: |
@@ -39,3 +39,7 @@ patterns:
     title: "Plus"
     description: |
       To add 1 from the quanitiy of an item in the cart.
+  discount:
+    title: "Discount"
+    description: |
+      Button to add a discount in Cart Total Card.
