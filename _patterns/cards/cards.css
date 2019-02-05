@@ -2,24 +2,28 @@
   border-color: var(--color-blue);
   border-width: 5px;
   border-style: solid;
+  max-height: 1000px;
 }
 
 .hoodie {
   border-color: var(--color-pink);
   border-width: 5px;
   border-style: solid;
+  max-height: 1000px;
 }
 
 .jacket {
   border-color: var(--color-yellow);
   border-width: 5px;
   border-style: solid;
+  max-height: 1000px;
 }
 
 .featured {
   border-color: var(--color-yellow);
   border-width: 5px;
   border-style: solid;
+  max-height: 1000px;
 }
 
 .checkout {
