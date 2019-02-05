@@ -35,3 +35,7 @@ patterns:
     title: "Discount Code"
     description: |
       Field for the user to input a possible discount code. Use only in cart.
+  warning:
+    title: "Warning"
+    description: |
+      A warning that pops up when the user is missing some information or a field.
