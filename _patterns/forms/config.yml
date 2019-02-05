@@ -15,6 +15,14 @@ patterns:
     title: "Address"
     description: |
       Field for the user to input their address.
+  postal:
+    title: "Postal Code"
+    description: |
+      Field for the user to input their postal code number.
+  phonenumber:
+    title: "Phone Number"
+    description: |
+      Field for the user to input their phone number.
   mailing:
     title: "Newsletter Consent"
     description: |
