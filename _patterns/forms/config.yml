@@ -11,6 +11,10 @@ patterns:
     title: "Email"
     description: |
       Field for the user to input their email.
+  address:
+    title: "Address"
+    description: |
+      Field for the user to input their address.
   mailing:
     title: "Newsletter Consent"
     description: |
