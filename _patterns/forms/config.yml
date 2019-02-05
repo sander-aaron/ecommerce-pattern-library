@@ -15,6 +15,10 @@ patterns:
     title: "Address"
     description: |
       Field for the user to input their address.
+  province:
+    title: "Province/State"
+    description: |
+      Field for the user to input their province/state.
   postal:
     title: "Postal Code"
     description: |
