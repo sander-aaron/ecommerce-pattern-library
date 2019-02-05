@@ -31,3 +31,8 @@ html {
 .is-validated:invalid + label + .error-message {
   display: block;
 }
+
+input {
+  border-color: var(--color-primary);
+  background-color: var(--color-primary-light);
+}
