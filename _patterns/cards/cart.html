@@ -1,19 +1,21 @@
 <div class="card cart island-1-2">
   <h4 class="text-center">CART TOTAL</h4>
-  <div class="grid grid-middle">
+  <div class="grid grid-bottom push-1-2">
     <span class="unit xs-2-3 s-2-3 m-2-3 l-2-3">{% pattern forms/discount %}</span>
     <span class="unit xs-1-3 s-1-3 m-1-3 l-2-3 gutter-1-4">{% pattern buttons/discount %}</span>
   </div>
   <dl class="grid">
-    <dt class="unit xs-1-2 s-1-2 m-1-2 l-1-2">ORDER TOTAL:</dt>
-    <dd class="unit xs-1-2 s-1-2 m-1-2 l-1-2 right">$34.72</dd>
-    <dt class="unit xs-1-2 s-1-2 m-1-2 l-1-2">SHIPPING TOTAL:</dt>
-    <dd class="unit xs-1-2 s-1-2 m-1-2 l-1-2 right">$41.86</dd>
+    <dt class="unit xs-2-3 s-2-3 m-2-3 l-2-3">ORDER TOTAL:</dt>
+    <dd class="unit xs-1-3 s-1-3 m-1-3 l-1-3 right">$34.72</dd>
+    <dt class="unit xs-2-3 s-2-3 m-2-3 l-2-3">SHIPPING TOTAL:</dt>
+    <dd class="unit xs-1-3 s-1-3 m-1-3 l-1-3 right">$41.86</dd>
   </dl>
   <p class="line"></p>
   <dl>
-    <dt class="unit xs-1-2 s-1-2 m-1-2 l-1-2">TOTAL:</dt>
-    <dd class="unit xs-1-2 s-1-2 m-1-2 l-1-2 right">$41.86</dd>
+    <dt class="unit xs-2-3 s-2-3 m-2-3 l-2-3">TOTAL:</dt>
+    <dd class="unit xs-1-3 s-1-3 m-1-3 l-1-3 right">$41.86</dd>
   </dl>
-  {% pattern buttons/checkout %}
+  <div class="text-center">
+    {% pattern buttons/checkout %}
+  </div>
 </div>
