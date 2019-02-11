@@ -1,19 +1,11 @@
-$(".button").on("click", function() {
+$(".btn-minus").on("click", function(){
+  var oldValue=parseInt($("#quantity").val(),10);
+  var newValue=oldValue-1;
+  $("#quantity").val(newValue)
+})
 
-  var $button = $(this);
-  var oldValue = $button.parent().find("input").val();
-
-  if ($button.text() == "+") {
-	  var newVal = parseFloat(oldValue) + 1;
-	} else {
-   // Don't allow decrementing below zero
-    if (oldValue > 0) {
-      var newVal = parseFloat(oldValue) - 1;
-    } else {
-      newVal = 0;
-    }
-  }
-
-  $button.parent().find("input").val(newVal);
-
-});
+$(".btn-add").on("click", function(){
+  var oldValue=parseInt($("#quantity").val(),10);
+  var newValue=oldValue+1;
+  $("#quantity").val(newValue)
+})
