@@ -1,0 +1,9 @@
+title: "Secondary Navigations"
+description: |
+  Navigations that help lead the user around the site without being the main page. As well there are some filters to help the user find things and sort items.
+
+patterns:
+  productfilter:
+    title: "Product Filter"
+    description: |
+      Helps the user filter products if they are looking at all the products on the site.
