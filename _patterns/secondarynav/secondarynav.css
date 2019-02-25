@@ -63,6 +63,17 @@ ol {
   list-style: none;
 }
 
+ /* Filter Toggle CSS starts here */
 .filter {
   max-width: 150px;
+  display: none;
+}
+
+.filter-check:checked ~ .filter {
+  display: block;
+}
+
+.filter-check {
+  position: absolute;
+  top: -3em;
 }
