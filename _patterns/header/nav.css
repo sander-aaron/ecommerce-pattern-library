@@ -1,18 +1,18 @@
+nav {
+  background-color: var(--color-primary-light);
+  height: 40px;
+}
+
 .nav li {
   list-style-type: none;
   display: inline-block;
-}
-
-li {
-  background-color: var(--color-primary-light);
-  color: var(--color-primary);
-  border:
 }
 
 a {
   background-color: var(--color-primary-light);
   color: var(--color-primary);
   text-decoration: none;
+  width: 100%;
 }
 
 li:hover {
