@@ -1,0 +1,9 @@
+title: "Main Navigation"
+description: |
+  The Main navigation for every page
+
+patterns:
+  productfilter:
+    title: "Header Navigation"
+    description: |
+      The navigation that leads the user around the site no matter what page they are on.
