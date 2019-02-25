@@ -1,0 +1,36 @@
+.nav li {
+  list-style-type: none;
+  display: inline-block;
+}
+
+li {
+  background-color: var(--color-primary-light);
+  color: var(--color-primary);
+}
+
+a {
+  background-color: var(--color-primary-light);
+  color: var(--color-primary);
+  text-decoration: none;
+}
+
+li:hover {
+  color: var(--color-primary-light);
+}
+
+a:hover {
+  background-color: var(--color-primary);
+  color: var(--color-primary-light);
+}
+
+.navshirt:hover {
+  background-color: var(--color-blue);
+}
+
+.navhoodie:hover {
+  background-color: var(--color-pink);
+}
+
+.navjacket:hover {
+  background-color: var(--color-yellow);
+}
