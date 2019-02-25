@@ -1,5 +1,9 @@
+footer {
+  background-color: var(--color-primary-light);
+}
+
 li {
-  display: inline inline-block;
+  display: inline-block;
 }
 
 .fb {
@@ -10,6 +14,6 @@ li {
   color: var(--color-yellow);
 }
 
-.twit {
+.twitter {
   color: var(--color-pink);
 }
