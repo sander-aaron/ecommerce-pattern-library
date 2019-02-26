@@ -59,8 +59,12 @@
 }
 
 ol {
-  border-bottom: solid 5px var(--color-blue);
+  border-bottom: solid 5px var(--color-yellow);
   list-style: none;
+}
+
+li {
+  display: block;
 }
 
  /* Filter Toggle CSS starts here */
