@@ -19,3 +19,8 @@ patternbot:
       The primary colours are black and an off-white to keep the website sleek looking.
     colors.accent: |
       The accent colours are brighter and pop off the pages to add intrest and also aide the consumer in easily identifying key elements of any page.
+  layouts:
+    default: |
+      This is the layout to be used on the home page. This contains the large banner with the moving shapes that is specific to just the home page.
+    other: |
+      This is the layout that is used on every other page. The banner is smaller and should be used when there is a lot of other important information.
