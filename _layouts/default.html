@@ -9,7 +9,11 @@
 </head>
 <body>
   <header>
-    {% pattern banners/homepage %}
+    {% page.show_big_banner %}
+      {% pattern banners/homepage %}
+    {% else %}
+      {% pattern banners/otherpages %}
+    {% endif %}
     {% pattern header/nav %}
   </header>
   <main class="island">
