@@ -9,6 +9,12 @@ HTML:
 </head>
 <body>
   <header>
+    {% pattern banners/homepage %}
+    {% pattern header/nav %}
   </header>
+  <main>
+    {{content}}
+  </main>
+  {% pattern footer/footer %}
 </body>
 </html>
