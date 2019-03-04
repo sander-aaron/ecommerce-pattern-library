@@ -23,6 +23,13 @@ patterns:
     title: "About"
     description: |
       A card to be used on the homepage and tells the user abou the company.
+    fields:
+      - name: heading
+        type: string
+        example: "ABOUT MUSHROOM BOY"
+      - name: text
+        type: string
+        example: "MUSHROOM BOY is a unisex t-shirt, hoodie and jacket shop. We are dedicated to inspiring customers with our unique products and creative designs. We also like to inspire our users to shop Canadian, as everything we make is created and produced in Canana."
   product:
     title: "Product Card"
     description: |
