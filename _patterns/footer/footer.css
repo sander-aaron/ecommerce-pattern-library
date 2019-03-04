@@ -6,6 +6,10 @@ li {
   display: inline-block;
 }
 
+.footer-nav {
+  display: inline;
+}
+
 .fb {
   color: var(--color-blue);
 }
