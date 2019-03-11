@@ -1,7 +1,7 @@
 ---
 name: "Black Eyes Tee"
 description: |
-  A soft tee shirt with eyes that stare at anyone. This tshirt is produced with all natural materials.
+  A soft tee shirt with eyes that stare at anyone. Produced with all natural materials.
 non_conflict: false
 image: "/images/blackeyes.png"
 price: $34.72
