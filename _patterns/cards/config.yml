@@ -35,6 +35,12 @@ patterns:
     description: |
       The card that shows off the product inside of each of the proudct pages.
     width: 12em;
+    fields:
+      - name: data
+        type: object
+        data:
+          source: "site.products[0]"
+          type: Product
   cart:
     title: "Cart"
     description: |

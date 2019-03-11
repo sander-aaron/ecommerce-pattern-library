@@ -43,3 +43,8 @@
 .line {
   border-bottom: solid 5px var(--color-blue);
 }
+
+.white-hover:hover {
+  background-color: var(--color-primary-light);
+  color: var(--color-primary);
+}
