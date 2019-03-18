@@ -81,3 +81,13 @@ li {
   position: absolute;
   top: -3em;
 }
+
+.filterbody {
+  position: absolute;
+  background-color: var(--color-primary-light);
+}
+
+[type="checkbox"] + label::before {
+  width: 1em;
+  height: 1em;
+}
