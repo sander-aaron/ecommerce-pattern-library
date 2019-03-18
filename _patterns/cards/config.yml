@@ -22,7 +22,7 @@ patterns:
   about:
     title: "About"
     description: |
-      A card to be used on the homepage and tells the user abou the company.
+      A card to be used on the homepage and tells the user about the company.
     fields:
       - name: heading
         type: string

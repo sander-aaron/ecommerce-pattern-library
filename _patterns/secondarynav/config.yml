@@ -1,9 +1,3 @@
 title: "Filter"
 description: |
-  Fliters that help the user find things and sort items.
-
-patterns:
-  productfilter:
-    title: "Product Filter"
-    description: |
-      Helps the user filters products if they are looking at all the products on the site. It goes in the top left corner of the page, under the navigation. In the code it goes above all the main content.
+  Helps the user filters products if they are looking at all the products on the site. It goes in the top left corner of the page, under the navigation. In the code it goes above all the main content.

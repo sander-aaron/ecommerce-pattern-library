@@ -1,6 +1,6 @@
 title: "Footer"
 description: |
-  Navigation, social links and copyright that stays at the botton of every page.
+  Navigation, social links and copyright, holds all information that should appear at the bottom of every page. It stays the same from page to page.
 
 patterns:
   footer:
