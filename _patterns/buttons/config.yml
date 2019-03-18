@@ -18,7 +18,7 @@ patterns:
   size:
     title: "Size"
     description: |
-      A button that is used to select the disired size of the product. Change letter inside of CSS file for a different size. Available sizes are: XS, S, M, L, XL.
+      A button that is used to select the disired size of the product. Change letter inside of HTML file for a different size. Available sizes are: XS, S, M, L, XL.
   nostock:
     title: "No Stock"
     description: |
