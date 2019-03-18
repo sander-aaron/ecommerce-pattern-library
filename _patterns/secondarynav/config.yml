@@ -1,9 +1,9 @@
 title: "Filter"
 description: |
-  Navigations that help lead the user around the site without being the main page. As well there are some filters to help the user find things and sort items.
+  Fliters that help the user find things and sort items.
 
 patterns:
   productfilter:
     title: "Product Filter"
     description: |
-      Helps the user filter products if they are looking at all the products on the site.
+      Helps the user filters products if they are looking at all the products on the site. It goes in the top left corner of the page, under the navigation. In the code it goes above all the main content.
