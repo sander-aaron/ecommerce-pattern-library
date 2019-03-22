@@ -14,10 +14,22 @@ li {
   color: var(--color-blue);
 }
 
+.fb:hover {
+  color: var(--color-primary);
+}
+
 .insta {
   color: var(--color-yellow);
 }
 
+.insta:hover {
+  color: var(--color-primary);
+}
+
 .twitter {
   color: var(--color-pink);
+}
+
+.twitter:hover {
+  color: var(--color-primary);
 }

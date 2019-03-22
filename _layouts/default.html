@@ -8,7 +8,12 @@
   <link href="https://use.typekit.net/cjq1zsh.css" rel="stylesheet">
 </head>
 <body>
-  <header>
+
+  <ul class="skip-links">
+    <li><a href="#main">Jump to main content</a></li>
+    <li><a href="#nav">Jump to navigation</a></li>
+  </ul>
+  <header role="banner" class="masthead" id="header">
     {% if page.show_big_banner %}
       {% pattern banners/homepage %}
     {% else %}
@@ -16,7 +21,7 @@
     {% endif %}
     {% pattern header/nav %}
   </header>
-  <main class="island">
+  <main role="main" id="main" tabindex="0" class="island">
     {{content}}
   </main>
   {% pattern footer/footer %}
