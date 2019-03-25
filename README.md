@@ -24,3 +24,9 @@ View the website at Netlify: [https://objective-northcutt-bd7c06.netlify.com/pat
 
 ## Collaborators
 - [@Miriampion](https://github.com/Miriampion)
+
+---
+
+## UX Templates
+
+Google Docs file: [Mushroom Boy UX Templates](https://docs.google.com/document/d/14Azp-7Cr4ljZdDjNaTOtzR6AgTL4Fe5T8nsxbTWpBkY/edit?usp=sharing)
