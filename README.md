@@ -24,6 +24,7 @@ View the website at Netlify: [https://objective-northcutt-bd7c06.netlify.com/pat
 
 ## Collaborators
 - [@Miriampion](https://github.com/Miriampion)
+- [@RRIOPEL18](https://github.com/RRIOPE18)
 
 ---
 
