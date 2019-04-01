@@ -1,11 +1,15 @@
 <div class="checkout" aria-label="Totals">
-  <i class="icon i-18 align-right"><svg><use xlink:href="/images/icons.svg#closed"></use></svg></i>
-  <img class="img-flex tshirt" src="/images/blacktshirt.png" alt="">
-  <div class="push island-1-2">
-    <h4 class="push-1-2">LEAVES TEE</h4>
-    <p class="push-1-2">$34.72</p>
-    <p class="push-0">SIZE: S</p>
-    {% pattern forms/quantity %}
-    <p class="push-1-2">TOTAL: $34.72</p>
+  <div class="push island-1-2 grid">
+    <div class=" unit xs-1 s-1 m-1-2 l-1-2">
+      <i class="icon i-18 align-right"><svg><use xlink:href="/images/icons.svg#closed"></use></svg></i>
+      <img class="img-flex tshirt" src="/images/blacktshirt.png" alt="">
+    </div>
+    <div class="unit xs-1 s-1 m-1-2 l-1-2 island">
+      <h4 class="push-1-2">LEAVES TEE</h4>
+      <p class="push-1-2">$34.72</p>
+      <p class="push-0">SIZE: S</p>
+      {% pattern forms/quantity %}
+      <p class="push-1-2">TOTAL: $34.72</p>
+    </div>
   </div>
 </div>
