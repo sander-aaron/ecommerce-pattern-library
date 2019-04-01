@@ -2,6 +2,18 @@
 layout: default
 ---
 
-<h1>{{page.name}}</h1>
-<p>{{page.description}}</p>
-<img src="{{page.image}}" alt="">
+<div class="grid">
+  <div class="unit xs-1 s-1 m-1 l-1-2">
+    <img class="img-flex tshirt" src="{{page.image}}" alt="">
+  </div>
+  <div class="unit gutter-2 xs-1 s-1 m-1 l-1-2">
+    <h2 class="pad-t">{{page.name}}</h2>
+    <p>{{page.description}}</p>
+    <p>$32.74</p>
+    {% pattern buttons/size %}
+    <h5 class="push-0 pad-t">Made in Canada</h5>
+    <h5 class="push-0">Made from 100% Bamboo</h5>
+    <h5>Dyed with natural tannins and iron</h5>
+    {% pattern buttons/add %}
+  </div>
+</div>
