@@ -166,3 +166,7 @@ u {
 a {
   color: var(--color-blue);
 }
+
+.skip-links {
+  display: none;
+}
