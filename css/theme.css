@@ -170,3 +170,9 @@ a {
 .skip-links {
   display: none;
 }
+
+caption {
+  font-family: var(--font-primary);
+  color: var(--color-primary);
+  font-weight: 500;
+}

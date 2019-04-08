@@ -1,29 +1,34 @@
 ---
 layout: default
 ---
-<div class="promotion-alert text-center">
+<section class="promotion-alert text-center">
   <h1>MUSHROOM BOY NEWSLETTER PROMOTION!</h1>
-</div>
+</section>
 
-<div class="text-center">
+<section class="text-center">
   {% pattern cards/featured %}
   <div class="block pad-t">
     {% pattern buttons/feature %}
   </div>
   <h3 class="pad-t">Be the first to view our newest Featured Collection!</h3>
   <small>Newsletter Promotion Pricing until April 29th @ 12:00 pm EST – Full release on May 3rd @ 12:00 pm EST</small>
-</div>
+</section>
 
-<div class="grid pad-t-2 gutter-1-4">
-  {% for product in site.products %}
-  <div class="unit xs-1 s-1 m-1-3 l-1-3">
-    {% pattern cards/product data=product %}
+<section class="pad-t-2">
+  <h2 class="text-center">Our Newest Feature Collection</h2>
+  <div class="grid gutter-1-4">
+    {% for product in site.products %}
+    <div class="unit xs-1 s-1 m-1-3 l-1-3">
+      {% pattern cards/product data=product %}
+    </div>
+    {% endfor %}
   </div>
-  {% endfor %}
-</div>
 
-<div class="pad-t-2 max-length">
+</section>
+
+<section class="pad-t-2 max-length push-2">
   <table>
+    <caption class="text-center push-1-2 peta not-italic">Buy more for less!</caption>
     <thead>
       <tr>
         <th scope="col">Quantity</th>
@@ -59,4 +64,20 @@ layout: default
       </tr>
     </tbody>
   </table>
-</div>
+</section>
+
+<section class="signup">
+  <h2 class="text-center push-1-2">Sign Up for the next Feautre Release!</h2>
+  <div class="grid">
+    <div class="unit xs-1 s-1 m-1-2 l-1-2 island-1-2">
+      {% pattern forms/name %}
+    </div>
+    <div class="unit xs-1 s-1 m-1-2 l-1-2 island-1-2">
+      {% pattern forms/email %}
+    </div>
+    <div class="unit xs-1 s-1 m-1 l-1 island-1-2 text-center">
+      {% pattern forms/mailing %}
+      {% pattern buttons/submit %}
+    </div>
+  </div>
+</section>
