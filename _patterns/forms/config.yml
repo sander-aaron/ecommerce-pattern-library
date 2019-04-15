@@ -43,3 +43,7 @@ patterns:
     title: "Warning"
     description: |
       A warning that pops up when the user is missing some information or a field.
+  quantity:
+    title: "Quantity"
+    description: |
+      A field the shows up on the product card in the cart as well as in the product display page that allows the user to add or subtract the quantity of their order.
