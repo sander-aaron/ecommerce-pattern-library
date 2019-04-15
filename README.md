@@ -19,6 +19,7 @@ The pattern library is a Jekyll & Patternbot based application that requires a r
 4. View the pattern library at: [http://localhost:4000/pattern-library/](http://localhost:4000/pattern-library/)
 
 View the website at Netlify: [https://objective-northcutt-bd7c06.netlify.com](https://objective-northcutt-bd7c06.netlify.com)
+
 View the pattern library at Netlify: [https://objective-northcutt-bd7c06.netlify.com/pattern-library/#brand](https://objective-northcutt-bd7c06.netlify.com/pattern-library/#brand)
 
 ---
