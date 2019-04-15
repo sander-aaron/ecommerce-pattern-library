@@ -43,3 +43,15 @@ patterns:
     title: "Discount"
     description: |
       Button to add a discount in Cart Total Card.
+  purchase:
+    title: "Purchase"
+    description: |
+      Button that allows the customer to finalise their purchase.
+  submit:
+    title: "Submit"
+    description: |
+      Button that allows the user to submit their email for the newsletter sign up.
+  feature:
+    title: "Secret Feature Button"
+    description: |
+      Button that allows the customer to view the full secret featured collection.
